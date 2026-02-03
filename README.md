@@ -4,7 +4,6 @@
   <img src="https://render.gitanimals.org/farms/{wonjae1230}"/>
 </a>
 <h2>Stacks</h2>
-
 <p>
   <div>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/>
@@ -18,6 +17,21 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-blue?logo=Tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-blue?logo=Netlify&logoColor=white">
+</div>
+<br>
+<div>
+  <img src = "https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-red?logo=Tensorflow&logoColor=white">
+</div>
+<br>
+<div>
+  <img src="https://img.shields.io/badge/Git-red?logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-black?logo=Notion&logoColor=white">
+
+
 </div>
 </p>
 <h2>Profile </h2>
