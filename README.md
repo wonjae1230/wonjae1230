@@ -1,4 +1,4 @@
-## Hi there 👋
+## 사람과 기술사이의 다리 역할이 되고 싶은 개발자 이원재입니다.
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{wonjae1230}"/>
