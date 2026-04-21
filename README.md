@@ -47,7 +47,9 @@
 
 <h2>Project</h2>
 <ul>
-  <li>부모와 자녀 페어링 기반 경제 키워드 서비스 <a href="https://github.com/TAVE-16-ONECO/Frontend">ONECO</a> FE <sub>(2025.10 ~ )</sub></li>
+  <li>부모와 자녀 페어링 기반 경제 키워드 서비스 <a href="https://github.com/TAVE-16-ONECO/Frontend">ONECO</a> FE <sub>(2025.10 ~2026.12 )</sub></li>
+  <li>논문들의 연관성과 독창성 추천 서비스 <a href="https://github.com/TAVE-16-ONECO/Frontend">CLIP</a> FE <sub>(2026.12 ~ )</sub></li>
+
 </ul>
 
 
