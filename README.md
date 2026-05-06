@@ -48,7 +48,7 @@
 <h2>Project</h2>
 <ul>
   <li>서울 송파구의 불법주차의 공간구조적 데이터 분석 및 솔루션 추천 <a href="https://github.com/rssdeal">RSSdeal</a> DA <sub>(2025.09. ~ 2025.12. )</sub></li>
-  <li>오픈소스를 통한 기존 기능 수정 및 추가 프로젝트 <a href="https://github.com/TAVE-16-ONECO/Frontend">entr</a> BE <sub>(2026.09 ~ 2025.12. )</sub></li>
+  <li>오픈소스를 통한 기존 기능 수정 및 추가 프로젝트 <a href="https://github.com/OPS-entr/entr">entr</a> BE <sub>(2026.09 ~ 2025.12. )</sub></li>
   
   <li>부모와 자녀 페어링 기반 경제 키워드 서비스 <a href="https://github.com/TAVE-16-ONECO/Frontend">ONECO</a> FE <sub>(2025.10 ~ 2026.12 )</sub></li>
   <li>논문들의 연관성과 독창성 추천 서비스 <a href="https://github.com/TAVE-16-ONECO/Frontend">CLIP</a> FE <sub>(2026.12 ~ )</sub></li>
