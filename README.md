@@ -42,7 +42,7 @@
   <li>홍익대학교 서울캠퍼스 산업데이터공학과 <sub>(2023.03 ~ )</sub></li>
   <li>육군 5사단 수색중대 <sub>(2023.03 ~2024.09 )</sub></li>
   <li>KT 대학생 IT 서포터즈 <a href="https://www.withdigital.co.kr/kit01.html">KIT</a> 3기<sub>(2025.06 ~ 2025.09)</sub></li>
-  <li>대학생 IT 연합 동아리 <a>TAVE</a> 16기 Web Front <sub>(2025.09 ~ 2026.01)</sub></li>
+  <li>수도권 대학생 IT 연합 동아리 <a>TAVE</a> 16기 Web Front <sub>(2025.09 ~ 2026.01)</sub></li>👑
 </ul>
 
 <h2>Project</h2>
