@@ -43,6 +43,8 @@
   <li>육군 5사단 수색중대 <sub>(2023.03 ~2024.09 )</sub></li>
   <li>KT 대학생 IT 서포터즈 <a href="https://www.withdigital.co.kr/kit01.html">KIT</a> 3기<sub>(2025.06 ~ 2025.09)</sub></li>
   <li>수도권 대학생 IT 연합 동아리 <a>TAVE</a> 16기 Web Front <sub>(2025.09 ~ 2026.01)</sub> </li>
+  <li>2026 세종 AX해커톤 <a>해커톤</a> GUIDER<sub>(2025.06 ~ 2026.08)</sub> </li>
+
 </ul>
 
 <h2>Project</h2>
@@ -52,6 +54,7 @@
   
   <li>🥇부모와 자녀 페어링 기반 경제 키워드 서비스 <a href="https://github.com/TAVE-16-ONECO/Frontend">ONECO</a> FE <sub>(2025.10 ~ 2026.12 )</sub></li>
   <li>논문들의 연관성과 독창성 추천 서비스 <a href="https://github.com/TAVE-16-ONECO/Frontend">CLIP</a> FE <sub>(2026.12 ~ )</sub></li>
+  <li>🥈복잡한 웹사이트 네비게이션 서비스 <a href="https://github.com/wonjae1230/Guider">GUIDER</a> PM, AI <sub>(2026.06 ~2026.08 )</sub></li>
   
 
 </ul>
